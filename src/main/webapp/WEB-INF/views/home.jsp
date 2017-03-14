@@ -49,11 +49,11 @@
 				<table class="table borderless">
 					<tr>
 						<td>Username:</td>
-						<td><input type="text" name="username" /></td>
+						<td><input type="text" name="name" /></td>
 					</tr>
 					<tr>
 						<td>Password:</td>
-						<td><input type="text" name="pass" /><br/></td>
+						<td><input type="text" name="password" /><br/></td>
 					</tr>
 					<tr>
 						<td><input type="submit" value="login" /></td>
@@ -68,7 +68,7 @@
 				<table class="table borderless">
 					<tr>
 						<td>Username:</td>
-						<td><input type="text" name="username" /></td>
+						<td><input type="text" name="name" /></td>
 					</tr>
 					<tr>
 						<td>Email:</td>
@@ -76,7 +76,7 @@
 					</tr>
 					<tr>
 						<td>Password:</td>
-						<td><input type="text" name="pass" /></td>
+						<td><input type="text" name="password" /></td>
 					</tr>
 					<tr>
 						<td><input type="submit" value="register" /></td>
